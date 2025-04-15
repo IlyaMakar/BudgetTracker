@@ -81,8 +81,8 @@ BudgetTracker/
 
 ## 👤 Автор
 
-> Илья Макар  
-[GitHub](https://github.com/IlyaMakar)
+> Илья Макаров
+> [GitHub](https://github.com/IlyaMakar)
 
 ---
 
